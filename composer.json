@@ -1,0 +1,13 @@
+{
+  "name": "tostrander/328/hello",
+  "description": "My first Fat-Free MVC project",
+  "authors": [
+    {
+      "name": "Tina Ostrander",
+      "email": "tostrander@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
